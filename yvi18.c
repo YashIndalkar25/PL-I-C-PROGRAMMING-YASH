@@ -63,4 +63,3 @@ int main()
 
     getch ();
 }
-```[cite: 4, 5, 6]
